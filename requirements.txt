@@ -2,5 +2,5 @@ streamlit
 pandas
 python-dotenv
 openai
-MetaTrader5
 requests
+# MetaTrader5  ← هذا غير مدعوم في الكلاود
